@@ -1,5 +1,5 @@
 # Trash Portfolio
-This is a trash portfolio I made for myself. I didn't even put information there.
+This is a trash portfolio I made for myself. I didn't even put information there.<br>
 I am not that much of a professional programmer, so I don't kinda need it.
 
 # License
