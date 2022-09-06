@@ -1,3 +1,7 @@
+# Trash Portfolio
+This is a trash portfolio I made for myself. I didn't even put information there.
+I am not that much of a professional programmer, so I don't kinda need it.
+
 # License
 This is free and unencumbered software released into the public domain.
 
